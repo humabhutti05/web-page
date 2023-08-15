@@ -72,14 +72,17 @@ body{
 .container-2{
     padding-top: 50px;
     padding-bottom: 40px;
-    margin: 50px;
+    margin: 30px;
 }
 h2{
     text-align: center;
 }
+.row{
+  margin: 20px;
+}
  .container-2 .column {
-    width: 19.32%;
-   padding: 15px;
+    width: 20.32%;
+   padding: 17px;
      height: 220px; 
     margin: 20px;
     /* background-color: rgb(83, 126, 126); */
