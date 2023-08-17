@@ -91,9 +91,9 @@ body{
     opacity: 0.4;
   }
 .container-2{
-    padding-top: 50px;
-    padding-bottom: 40px;
-    margin: 30px;
+    padding-top: 70px;
+    padding-bottom: 80px;
+    margin: 10px;
 }
 h2{
     text-align: center;
@@ -107,7 +107,7 @@ h2{
     width: 20.32%;
    padding: 17px;
    height: 220px; 
-   margin: 20px;
+   margin: 15px;
   /* background-color: rgb(83, 126, 126); */
    background-color: rgb(110, 90, 224);
     border-radius: 7px;
