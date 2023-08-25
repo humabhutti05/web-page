@@ -7,8 +7,9 @@ body{
 .navbar-1{
   background-color: transparent;
   color: white;
-  font-size: 20px;
-  color: white;
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
 }
 
 .navbar-1 li{
@@ -102,12 +103,14 @@ h2{
   float: inline-block;
   margin-top: 10px;
   display: inline;
+  max-width: max-content;
 }
  .container-2 .column {
     width: 20.32%;
    padding: 17px;
    height: 220px; 
    margin: 15px;
+   max-width: fit-content;
   /* background-color: rgb(83, 126, 126); */
    background-color: rgb(110, 90, 224);
     border-radius: 7px;
