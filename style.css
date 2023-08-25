@@ -103,7 +103,7 @@ h2{
   float: inline-block;
   margin-top: 10px;
   display: inline;
-  max-width: max-content;
+  max-width: 90px;
 }
  .container-2 .column {
     width: 20.32%;
