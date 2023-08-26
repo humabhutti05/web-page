@@ -102,7 +102,7 @@ h2{
 .row{
   float: inline-block;
   margin-top: 10px;
-  display: inline;
+  display: inline-block;
   max-width: 50px;
 }
  .container-2 .column {
@@ -120,6 +120,7 @@ h2{
     flex-flow: column; 
     text-align: center;
     box-shadow: 3px 3px  rgba(183, 155, 199, 0.842);
+     display: inline-block;
   }
   .container-2 .column:hover{
     opacity: 0.4;
